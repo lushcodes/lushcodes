@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Luke Usher - @lushcodes
-- 👀  I’m interested in becoming a software developer
-- 🌱  I’m currently seeking job opportunities where I can further my skills and help develop your projects! I also make soundtracks for video games.
+- 👀  I’m interested in becoming a software developer. I also make soundtracks for video games.
+- 🌱  I’m currently seeking job opportunities where I can further my skills and help develop your projects!
 - 💞️  I’m looking to collaborate on your game, website or programs!
 - 📫  How to reach me for code (lushcodes@gmail.com) or music (octonyte@gmail.com)
 
